@@ -7,5 +7,5 @@
 
 - 3. Explain how Java being a strongly typed language affected you solution.
 
--4. Can you explain the differences between Abstract Classes and Interfaces including how they are used in your application?
+- 4. Can you explain the differences between Abstract Classes and Interfaces including how they are used in your application?
  
